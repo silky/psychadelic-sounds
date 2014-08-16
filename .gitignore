@@ -3,6 +3,7 @@ pom.xml.asc
 *jar
 /lib/
 /classes/
+/native/
 /target/
 /checkouts/
 .lein-deps-sum
